@@ -11,6 +11,10 @@ O projeto contará com o desenvolvimento de:
 - Decorators de validação.
 
 🛠️ Funcionalidades
+- Ações na conta;
+- Consultando informações;
+- Segurança na conta;
+- Validando interações: depósitos, pagamentos e débitos;
 
 
 📚 Tecnologias Utilizadas
